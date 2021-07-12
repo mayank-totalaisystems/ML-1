@@ -1,0 +1,9 @@
+flask
+pandas
+pickle
+transformers
+sentence_transformers
+numpy
+spacy
+pickle
+json
